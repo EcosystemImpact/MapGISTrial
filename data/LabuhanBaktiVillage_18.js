@@ -1,0 +1,1 @@
+var json_LabuhanBaktiVillage_18 = {"type":"FeatureCollection","name":"LabuhanBaktiVillage_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1"},"geometry":{"type":"Point","coordinates":[96.475774811562459,2.403887121622377]}}]}

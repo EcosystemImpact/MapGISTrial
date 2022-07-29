@@ -1,0 +1,1 @@
+var json_LabuhanJayaVillage_19 = {"type":"FeatureCollection","name":"LabuhanJayaVillage_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1"},"geometry":{"type":"Point","coordinates":[96.490567309260925,2.383462762691209]}}]}

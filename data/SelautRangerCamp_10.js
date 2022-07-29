@@ -1,0 +1,1 @@
+var json_SelautRangerCamp_10 = {"type":"FeatureCollection","name":"SelautRangerCamp_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1"},"geometry":{"type":"Point","coordinates":[95.396102437380279,2.977842673391665]}}]}

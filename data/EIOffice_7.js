@@ -1,0 +1,1 @@
+var json_EIOffice_7 = {"type":"FeatureCollection","name":"EIOffice_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1"},"geometry":{"type":"Point","coordinates":[96.22278714212969,2.45714160719441]}}]}
